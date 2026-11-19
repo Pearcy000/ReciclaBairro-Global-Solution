@@ -1,0 +1,7 @@
+id,nome,bairro,sabado,materiais
+1,Estação Cedro,Vila Cedro,0,Papel|Plástico|Vidro
+2,Cooperativa Ipê,Vila Cedro,1,Papel|Metal
+3,Estação Aurora,Jardim Aurora,1,Vidro|Plástico
+4,Cooperativa Horizonte,Parque Horizonte,1,Papel|Plástico|Metal
+5,Estação Lago,Parque Horizonte,0,Vidro
+6,Central Girassol,Jardim Aurora,0,Eletrônicos
